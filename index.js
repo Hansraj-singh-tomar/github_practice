@@ -1,1 +1,3 @@
-console.log("index file is created")
+console.log("index file is created");
+
+let name = "hansraj"; 
