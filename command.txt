@@ -5,4 +5,4 @@
 -> git log - to see all commit
 -> git log --oneline
 -> git diff - what all new line added in that
--> git show 2be8b69e2dfc685af6146edc04ff6e066001320c - iss perticular commit ke andar kya kya changes huye
+-> git show 2be8b69e2dfc685af6146edc04ff6e066001320c - iss perticular commit ke andar kya kya changes huye - press Q to exit from this command
