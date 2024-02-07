@@ -8,4 +8,4 @@
 -> git show 2be8b69e2dfc685af6146edc04ff6e066001320c - iss perticular commit ke andar kya kya changes huye - press Q to exit from this command
 -> git blame utils.js - ye hame line by line btata hai ki ye code kis auther ne / kab change kiya 
 -> git reset --hard f9c1c6e - chilsd ke sare commit bhi delete/remove ho jayenge
--> git revert f9c1c6e
+-> git revert f9c1c6e - ussi perticular commit ko revert karega and usme changes kar karke uska bhi commit bna sakte hai 
