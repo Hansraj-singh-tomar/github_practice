@@ -9,3 +9,9 @@
 -> git blame utils.js - ye hame line by line btata hai ki ye code kis auther ne / kab change kiya 
 -> git reset --hard f9c1c6e - chilsd ke sare commit bhi delete/remove ho jayenge
 -> git revert f9c1c6e - ussi perticular commit ko revert karega and usme changes kar karke uska bhi commit bna sakte hai 
+
+-> git remote
+-> git remote add origin https://github.com/Hansraj-singh-tomar/github_practice.git
+-> git remote => origin
+-> git remote -v 
+-> git push -u origin master
